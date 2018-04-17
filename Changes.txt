@@ -1,0 +1,4 @@
+-Added Open Loop Ramp
+-Added Choosers for Auton
+-Fixed Gyro inconsistency
+-Fixed Elevator Calc Inconsistency 
